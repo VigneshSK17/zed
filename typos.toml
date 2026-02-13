@@ -3,6 +3,7 @@ ignore-files = true
 ignore-hidden = false
 extend-exclude = [
     ".git/",
+    ".github/",
 
     # Contributor names aren't typos.
     ".mailmap",
